@@ -1,0 +1,24 @@
+
+
+
+
+public class VideoPlayer extends javax.swing.JFrame 
+{
+    
+
+    @SuppressWarnings("unchecked")
+                   
+
+    public static void main(String args[]) {
+        
+
+        java.awt.EventQueue.invokeLater(new Runnable() {
+            public void run() {
+                new VideoPlayer().setVisible(true);
+            }
+        });
+    }
+    // Variables declaration - do not modify                     
+    private java.awt.Canvas canvas1;
+    // End of variables declaration                   
+}

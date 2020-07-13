@@ -1,0 +1,16 @@
+
+
+{
+  
+  public LocalFilePlayer()
+  {
+
+      
+  }
+
+
+  public static void main(String args[])
+  {
+    LocalFilePlayer obj = new LocalFilePlayer();
+  }
+}
